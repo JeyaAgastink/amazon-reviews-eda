@@ -14,5 +14,5 @@ venv/
 env/
 
 # Large files
-*.zip
-*.gz
+large.zip
+large.gz
